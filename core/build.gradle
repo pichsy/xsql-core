@@ -2,7 +2,7 @@ plugins {
     id 'com.android.library'
 }
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.gitee.pichs'
+group='com.github.pichsy'
 
 android {
     compileSdkVersion 30

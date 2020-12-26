@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xsql.iml" filepath="$PROJECT_DIR$/.idea/modules/xsql.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xsql.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xsql.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xsql/xsql.core.iml" filepath="$PROJECT_DIR$/.idea/modules/xsql/xsql.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xsql-core.iml" filepath="$PROJECT_DIR$/.idea/modules/xsql-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xsql-core.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xsql-core.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/xsql-core.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/xsql-core.core.iml" />
     </modules>
   </component>
 </project>
