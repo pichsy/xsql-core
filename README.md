@@ -4,6 +4,13 @@
 
 最新版本：[![](https://jitpack.io/v/pichsy/xsql-core.svg)](https://jitpack.io/#pichsy/xsql-core)
 
+### 引用方式
+
+         // 核心包 其中已经包含xsql-base，可以不用重复引用
+         implementation 'com.github.pichsy:xsql-core:1.0'
+         // 表字段映射类自动生成，可选
+         kapt 'com.github.pichsy:xsql-maker:1.0'
+
 ### 一、 一行代码，无需创建乱七八槽的 dao
         
     var baseDao = XSql.getDBManager(this).getBaseDao(UserInfo::class.java)
