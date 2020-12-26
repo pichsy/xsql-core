@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         insert.setOnClickListener {
             Toast.makeText(this, "插入", Toast.LENGTH_SHORT).show()
             val userinfo = UserInfo()
+
             userinfo.age = et_age.text.toString().toInt()
             userinfo.name = et_name.text.toString()
             val result = userDao.insert(userinfo)

@@ -2,6 +2,8 @@
  极致简单好用的ORM数据库框架<br>
  可自动升级，无需操心数据库升级带来的困扰，面对对像数据库操作
 
+最新版本：[![](https://jitpack.io/v/pichsy/xsql-core.svg)](https://jitpack.io/#pichsy/xsql-core)
+
 ### 一、 一行代码，无需创建乱七八槽的 dao
         
     var baseDao = XSql.getDBManager(this).getBaseDao(UserInfo::class.java)
@@ -10,8 +12,6 @@
     // 具体使用可以查看详情。
 
 
-
-最新版本：[![](https://www.jitpack.io/v/com.gitee.pichs/XSql.svg)](https://www.jitpack.io/#com.gitee.pichs/XSql)
 
 ### 二、 字段随意定，支持模糊，区间，分页，排序等常用查询。
 
