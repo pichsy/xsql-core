@@ -1,3 +1,10 @@
+
+
+# 最新地址, 该项目已移到gitee
+
+# [https://gitee.com/pichs/xsql-core](https://gitee.com/pichs/xsql-core)
+
+
 # XSql数据库框架
  极致简单好用的ORM数据库框架<br>
  可自动升级，无需操心数据库升级带来的困扰，面对对像数据库操作
